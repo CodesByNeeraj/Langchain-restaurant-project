@@ -1,5 +1,5 @@
 # Restaurant Name Generator
-Welcome to the Restaurant Name Generator app! This web application helps you come up with a creative and catchy name for your restaurant based on the cuisine of your choice. In addition, it suggests a list of menu items that fit the vibe of your restaurant.
+I had real fun building this Restaurant Name Generator app! This web application helps you come up with a creative and catchy name for your restaurant based on the cuisine of your choice. In addition, it suggests a list of menu items that fit the vibe of your restaurant.
 
 The app is built using Streamlit and powered by Langchain, an innovative framework for creating LLM-based (Large Language Model) applications. It generates restaurant names and food items dynamically based on your chosen cuisine.
 
