@@ -30,7 +30,7 @@ Install the necessary Python libraries via requirements.txt.
 
 You will also need your own OpenAI API key to run the app because the app makes use of OpenAI's API to generate the content.
 
-##Steps to run the project 
+## Steps to run the project 
 1. Create a virtual environment (to keep this project's dependencies isolated)
 
 python -m venv venv
