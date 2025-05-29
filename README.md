@@ -14,6 +14,11 @@ Receive a list of menu items based on the restaurant's name.
 
 All results are generated using an AI language model.
 
+Some examples:
+
+![dropdown menu](democuisine.png)
+![dropdown menu](democuisine2.png)
+
 ## Tools Used
 Streamlit: Used to build and deploy the web app.
 
