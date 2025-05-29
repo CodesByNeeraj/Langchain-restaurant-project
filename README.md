@@ -5,6 +5,7 @@ The app is built using Streamlit and powered by Langchain, an innovative framewo
 
 ## Features
 Choose a cuisine (Indian, Chinese, British, or Malay) from the sidebar.
+
 ![dropdown menu](dropdownmenu.png)
 
 Get a fancy restaurant name suggestion.
